@@ -7,9 +7,9 @@ Hola ✌️  soy el explorer **Cesar** y este es mi blog personal donde comparti
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-Mis expectativas para este proyecto son:
--Reforzar mis conocimientos de git.
--Practicar lo aprendido en la mision de frontend.
+Mis expectativas para este proyecto son:<br>
+-Reforzar mis conocimientos de git.<br>
+-Practicar lo aprendido en la mision de frontend.<br>
 -Aprender JavaScript para backend.
 
 🚀
