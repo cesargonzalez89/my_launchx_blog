@@ -5,17 +5,11 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quien soy.
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy un egresado de la carrera de ingenieria en tecnologias de la informacion y comunicacion.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**El porque estoy aqui** cuando ya tengo una carrera en sistemas, y alrededor de 9 años en de desarrollo de software solo obedece a la constante necesidad de crecimiento que nuestra area exige, estoy aqui por la experiencia, por el nuevo conocimiento, y por el conocer como trabajan los demas desarrolladores.
 
