@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Cesar Gonzalez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://cesargonzalez89.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cesargonzalez89.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola espero que todos esten de lo mejor, les contare los conocimientos que he adquirido durante esta experiencia en LaunchX:
+-Phthon.-Jupyter notebooks.-Git.-Github.-Js.-Html.-Css.-Vue.-Vuex.-Angular.Gracias por su atencion.</description>
+    </item>
+    
     <item>
       <title>La cultura de un desarrollador de software.</title>
       <link>https://cesargonzalez89.github.io/my_launchx_blog/posts/intro/</link>
