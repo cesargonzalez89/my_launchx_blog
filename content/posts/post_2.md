@@ -1,6 +1,6 @@
 ---
 title: "Git, GitHub y sus diferencias"
-date: 2022-04-024
+date: 2022-04-24
 description: 'Una pequeña intreoduccion al maravilloso mundo de git, github y algunas de sus diferencias'
 ---
 
