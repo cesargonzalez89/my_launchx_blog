@@ -28,5 +28,16 @@ Para mi la cultura de un profesional del software se basa en los siguientes punt
 -Honestidad.-Conocimientos.-Respeto.-Atencion al cliente.-Aprendizaje continuo.</description>
     </item>
     
+    <item>
+      <title>Git, GitHub y sus diferencias</title>
+      <link>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola les quiero compartir acerca de estas grandes herramientas basicas para los desarrolladores la cual es git, ojala sea de utilidad para todo el que de una u otra forma se encuentre en este post.
+Como mencione git deberia ser una de las herramientas basicas a la hora de desarrollar, ya que soluciona una de los grandes problemas que tenemos como desarrolladores, la cual es el versionamiento de codigo.
+En simples palabras git te permite crear puntos de guardado para tu codigo, tocare solo la punta del iceberg que git es, cada que hagas cambios en tu codigo tienes la oportunidad de crear un punto de guardado, cada punto de guardado que generes va a compañado de una descripcion y por defaul guarda el usuario que hizo dicho cambio.</description>
+    </item>
+    
   </channel>
 </rss>
