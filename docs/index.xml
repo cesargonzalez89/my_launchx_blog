@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Cesar Gonzalez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cesargonzalez89.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cesargonzalez89.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFT en OpenSea</title>
+      <link>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Fuente: https://support.opensea.io/hc/en-us
+Para comenzar a crear sus NFT necesitará una moneda digital, una billetera criptográfica y una cuenta de OpenSea para comenzar a comprar o vender NFT con OpenSea.
+1. Moneda digital (ETH) Puede obtener ETH, la moneda digital que alimenta las transacciones en la cadena de bloques de Ethereum, desde un cambio de moneda digital como Coinbase . Necesitará ETH para &amp;ldquo;acuñar&amp;rdquo; un NFT, comprar un NFT y las tarifas de gas para completar las transacciones.</description>
+    </item>
+    
     <item>
       <title>Git, GitHub y sus diferencias</title>
       <link>https://cesargonzalez89.github.io/my_launchx_blog/posts/post_2/</link>
